@@ -38,7 +38,7 @@ If you find this project useful for your research, please use the following BibT
     @article {10.1111:cgf.13853,
       journal = {Computer Graphics Forum},
       title = {{Style Mixer: Semantic-aware Multi-Style Transfer Network}},
-      author = {HUANG, Zixuan and 张, 景淮 and LIAO, Jing},
+      author = {HUANG, Zixuan and ZHANG, Jinghuai and LIAO, Jing},
       year = {2019},
       publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
       ISSN = {1467-8659},
